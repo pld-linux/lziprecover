@@ -1,0 +1,14 @@
+--- lziprecover-1.15/doc/lziprecover.texinfo.orig	2013-09-14 14:30:52.000000000 +0200
++++ lziprecover-1.15/doc/lziprecover.texinfo	2013-11-24 21:09:41.108579870 +0100
+@@ -9,9 +9,9 @@
+ @set UPDATED 14 September 2013
+ @set VERSION 1.15
+ 
+-@dircategory Data Compression
++@dircategory File utilities:
+ @direntry
+-* Lziprecover: (lziprecover).   Data recovery tool for lzip files
++* Lziprecover: (lziprecover).		Data recovery tool for lzip files
+ @end direntry
+ 
+ 
