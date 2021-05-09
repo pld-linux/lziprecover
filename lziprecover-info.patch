@@ -1,8 +1,8 @@
---- lziprecover-1.18/doc/lziprecover.texi.orig	2016-09-12 15:25:20.658988601 +0200
-+++ lziprecover-1.18/doc/lziprecover.texi	2016-09-12 15:28:51.812319524 +0200
+--- lziprecover-1.22/doc/lziprecover.texi.orig	2021-01-02 23:04:18.000000000 +0100
++++ lziprecover-1.22/doc/lziprecover.texi	2021-05-09 16:58:04.622715507 +0200
 @@ -9,9 +9,9 @@
- @set UPDATED 12 May 2016
- @set VERSION 1.18
+ @set UPDATED 2 January 2021
+ @set VERSION 1.22
  
 -@dircategory Data Compression
 +@dircategory File utilities:

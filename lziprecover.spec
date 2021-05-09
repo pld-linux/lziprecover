@@ -2,7 +2,7 @@ Summary:	Data recovery tool and decompressor for lzip files
 Summary(pl.UTF-8):	Narzędzie do odzyskiwania danych i dekompresor dla plików lzip
 Name:		lziprecover
 Version:	1.22
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Applications/Archiving
 Source0:	http://download.savannah.gnu.org/releases/lzip/lziprecover/%{name}-%{version}.tar.lz
