@@ -1,8 +1,8 @@
---- lziprecover-1.23/doc/lziprecover.texi.orig	2022-06-25 15:46:09.452794777 +0200
-+++ lziprecover-1.23/doc/lziprecover.texi	2022-06-25 15:59:11.448558342 +0200
+--- lziprecover-1.24/doc/lziprecover.texi.orig	2024-01-30 17:38:40.587067399 +0100
++++ lziprecover-1.24/doc/lziprecover.texi	2024-01-30 17:44:06.785300231 +0100
 @@ -9,9 +9,9 @@
- @set UPDATED 21 January 2022
- @set VERSION 1.23
+ @set UPDATED 20 January 2024
+ @set VERSION 1.24
  
 -@dircategory Compression
 +@dircategory File utilities:
